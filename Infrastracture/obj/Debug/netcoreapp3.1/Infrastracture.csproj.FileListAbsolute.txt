@@ -1,0 +1,15 @@
+/Users/manal/Projects/MyPortfolio/Infrastracture/bin/Debug/netcoreapp3.1/Infrastracture.deps.json
+/Users/manal/Projects/MyPortfolio/Infrastracture/bin/Debug/netcoreapp3.1/Infrastracture.runtimeconfig.json
+/Users/manal/Projects/MyPortfolio/Infrastracture/bin/Debug/netcoreapp3.1/Infrastracture.runtimeconfig.dev.json
+/Users/manal/Projects/MyPortfolio/Infrastracture/bin/Debug/netcoreapp3.1/Infrastracture.dll
+/Users/manal/Projects/MyPortfolio/Infrastracture/bin/Debug/netcoreapp3.1/Infrastracture.pdb
+/Users/manal/Projects/MyPortfolio/Infrastracture/bin/Debug/netcoreapp3.1/Core.dll
+/Users/manal/Projects/MyPortfolio/Infrastracture/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/manal/Projects/MyPortfolio/Infrastracture/obj/Debug/netcoreapp3.1/Infrastracture.csprojAssemblyReference.cache
+/Users/manal/Projects/MyPortfolio/Infrastracture/obj/Debug/netcoreapp3.1/Infrastracture.AssemblyInfoInputs.cache
+/Users/manal/Projects/MyPortfolio/Infrastracture/obj/Debug/netcoreapp3.1/Infrastracture.AssemblyInfo.cs
+/Users/manal/Projects/MyPortfolio/Infrastracture/obj/Debug/netcoreapp3.1/Infrastracture.csproj.CoreCompileInputs.cache
+/Users/manal/Projects/MyPortfolio/Infrastracture/obj/Debug/netcoreapp3.1/Infrastracture.csproj.CopyComplete
+/Users/manal/Projects/MyPortfolio/Infrastracture/obj/Debug/netcoreapp3.1/Infrastracture.dll
+/Users/manal/Projects/MyPortfolio/Infrastracture/obj/Debug/netcoreapp3.1/Infrastracture.pdb
+/Users/manal/Projects/MyPortfolio/Infrastracture/obj/Debug/netcoreapp3.1/Infrastracture.genruntimeconfig.cache

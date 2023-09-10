@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{4DFB0AA0-FB2E-493A-B42D-3FAFB67B5A9E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web/Conrollers/PortfolioController.cs">
+    <Files>
+      <File FileName="Web/Conrollers/PortfolioController.cs" Line="168" Column="10" />
+      <File FileName="Web/Views/_ViewImports.cshtml" />
+      <File FileName="Web/Views/Portfolio/Details.cshtml" />
+      <File FileName="Web/ViewModels/PortfolioViewModel.cs" />
+      <File FileName="Web/Views/Portfolio/Edit.cshtml" />
+      <File FileName="Web/Views/Portfolio/Create.cshtml" />
+      <File FileName="Web/Views/Portfolio/Delete.cshtml" />
+      <File FileName="Infrastracture/Repository/GenericRepository.cs" />
+      <File FileName="Infrastracture/DataContext.cs" />
+      <File FileName="Core/Interfaces/IUnitOfWork.cs" />
+      <File FileName="Core/Interfaces/IGenericRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyPortfolio" expanded="True">
+            <Node name="Core" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+            <Node name="Infrastracture" expanded="True">
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="Web" expanded="True">
+              <Node name="Conrollers" expanded="True">
+                <Node name="PortfolioController.cs" selected="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Portfolio" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="img" expanded="True">
+                  <Node name="portfolio" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
